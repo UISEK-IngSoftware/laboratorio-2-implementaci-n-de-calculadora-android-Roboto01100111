@@ -5,8 +5,8 @@
 
 **Completa la siguiente información antes de comenzar:**
 
-- **Nombre completo**: [Nombre del estudiante]
-- **Carrera**: [Carrera del estudianete]
+- **Nombre completo**: [Guillermo David Zurita Velazquez]
+- **Carrera**: [Ingeniería de Software]
 
 ---
 

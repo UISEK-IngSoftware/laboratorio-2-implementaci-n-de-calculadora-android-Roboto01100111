@@ -12,3 +12,9 @@ val Pink40 = Color(0xFF7D5260)
 
 val UiSekBlue = Color(0xFF03A9F4)
 val Red = Color(0xFF880030)
+val RoyalBlue = Color(0xFF4169E1)
+
+// Colors for the readme.md's calculator look
+val CalcLightBlue = Color(0xFF33B5E5)
+val CalcPurple = Color(0xFF673AB7)
+val CalcRed = Color(0xFFD32F2F)
